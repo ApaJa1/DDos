@@ -75,13 +75,11 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	ApaJa Dos Script v.1
-        DDos WhatEver Do You Want,,Dont Forget Use VPN Because Your Ip Is Visible. \n
-	usage : python3 ApaJaDDos.py [-s] [-p] [-t]
-	-h : help
-	-s : server ip
-	-p : port default 80
-	-t : turbo default 135 \033[0m''')
+	print "\033[1;32m#########################################################"
+    print "#------------------------[\033[1;91mDDos By ApaJa\033[1;32m]---------------------#"
+    print "#-------------------------------------------------------#"
+    print "#   \033[1;91mCommand: " "python2 DDos1.py " "<ip> <port> <packet> \033[1;32m   #"
+    print "#-----------------------------[PRESS CTRL + C TO STOP]--------------------#
 	sys.exit()
 
 
